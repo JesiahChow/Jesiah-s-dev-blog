@@ -1,2 +1,3 @@
-# Jesiah-s-dev-blog 
-hello
+# Jesiah-s-dev-blog
+
+hello. Welcome to my development blog
